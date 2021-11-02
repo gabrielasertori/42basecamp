@@ -12,7 +12,7 @@ Is a 20 days bootcamp and a selection process to study at the world wide softwar
 
 The basecamp was gamefied, it means that you earn badges to accomplish other challenges, like receiving expressive vote from the other participant as a helpfull peer. There are my bagdes:
 
-![badges]()
+![badges](bagdes.png)
 
 ## What is école 42 and How it works?
 
