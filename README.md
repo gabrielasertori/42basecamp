@@ -20,7 +20,12 @@ To made to the basecamp, first the participant must had completed two challenges
 - Memory challenge
 - Logic challenge
 
-When approved, some of the participants will have the chance to be in the basecamp and learn shell script and C from the other participants (peer to peer evaluation).
-[Navigate](https://42.fr/en/homepage/) to the main site of école 42, or the [São Paulo branch](https://www.42sp.org.br/) site to see the potential.
+When approved, some of the participants will have the chance to be in the basecamp and learn shell script and C from the other participants (peer to peer evaluation).<br>
+Navigate to the main site of [école 42]((https://42.fr/en/homepage/), or the [São Paulo branch](https://www.42sp.org.br/) site to see the potential.
 The course takes up to a year to be completed and it is totally free.
 
+## My experience
+
+It was insane!<br>
+I couldn't believe that I was learning C without professors, only with my curiousity and my friend's help. Some days I just wanted to cry my soul out of my body, thinking that code was not for me. But happily I was wrong and I continued until the end, always keep going and delivering the projects.<br>
+And now I continue studying, but now as a cadet, a properly student at école 42.
